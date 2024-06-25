@@ -347,6 +347,10 @@ PRODUCTS PAGE
 
 */
 
+#all-products {
+  min-height: 50vh;
+}
+
 .all-products__row {
   display: flex;
   flex-direction: column;
